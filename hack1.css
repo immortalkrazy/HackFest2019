@@ -1,0 +1,95 @@
+.h2Head { 
+    background-color: #808000;
+}
+
+.h3Head {
+    background-color : purple
+}
+
+.h3Head {
+    background-color: blue;
+}
+
+
+.bg {
+  /* The image used */
+  background-image: url("images/img1.jpg");
+
+  /* Half height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Opacity*/
+  opacity: 0.7;
+}
+
+.carousel {
+  width:auto;
+  height:auto;
+}
+
+
+body{
+background-position: center;
+background-size: cover;
+font-family: Ubuntu;
+color: white;
+}
+#content {
+text-align: center;
+padding-top: 25%;
+
+text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4)
+             0px 8px 13px rgba(0,0,0,0.5)
+             0px 18px 23px rgba(0,0,0,0.8);
+           }
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+  color:white;
+}
+
+html{
+  height: 100%;
+}
+
+hr{
+width: 400px;
+border-top: 1px solid #f8f8f8;
+border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+ }
+
+ .cardcollection{
+   margin: auto;
+  float: center;
+  width: 200px;
+  text-decoration-color: black;
+  padding: 10px;
+ }
+
+ p{
+   color: black;
+   text-shadow: 1px 1px skyblue;
+ }
+
+ h3{
+   text-shadow: 2px 2px red;
+ }
+
+ h4{
+   color: black;
+ }
+
+ .card{
+   text-align: center;
+ }
